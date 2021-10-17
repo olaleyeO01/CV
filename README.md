@@ -25,7 +25,7 @@ There was a situation where i was working and i could see a customer was being q
 ## Education
 
 #### Makers Academy (Sept 2021 to Jan 2022)
-- Learning how to code, also how to approach the problem step by step. Using TDD software to radically increase code quality and program design, using the framework rspec.
+- Learning how to code using the program ruby, also how to approach the problem step by step. Using TDD software to radically increase code quality and program design, using the framework rspec.
 #### Portsmouth College (2017 to 2018)
 
 - Studied Maths, Economics and Pshychology 

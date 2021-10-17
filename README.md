@@ -1,4 +1,4 @@
-## Leye oduola
+## Name: Leye oduola
 
 My name is Leye oduola and i am a aspiring software developer. I have completed my GCSE and A-levels and I am currently enrolled in makers. What i love about tech is that it is the future of the world and even seeing the changes right in front of our own eyes, and it is only just the beginning. It has endless oppertunites as it could be applied in any industry, I belive this is skill worth knowing and understanding. 
 
@@ -6,7 +6,7 @@ My name is Leye oduola and i am a aspiring software developer. I have completed 
 
 | Name                         |                            Description                                      | Tech/tools        |
 | ---------------------------- |       ----------------------------------------------------------            | ----------------- |
-| **Animal-trading cards**     | Shows you the stats about the animal and intresting fact| React, Jest, etc. | HTML, CSS
+| **Animal-trading cards**     | Shows you the stats about the animal and intresting facts.| React, Jest, etc. | HTML, CSS
                                                     
 
 ## Work Experience
